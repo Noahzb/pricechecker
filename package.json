@@ -1,0 +1,25 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "main": "threedeezy.js",
+  "scripts": {
+    "start": "node threedeezy.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noahzb/pricechecker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Noahzb/pricechecker/issues"
+  },
+  "homepage": "https://github.com/Noahzb/pricechecker#readme",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "node.js": "^0.0.0",
+    "web3": "^0.20.7"
+  },
+  "devDependencies": {}
+}
