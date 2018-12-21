@@ -61,6 +61,6 @@ getData().then(function(data){
         res.send(data);
         })});
         
-app.listen(3000, function() {
-    console.log("App running on port");
+app.listen(PORT, function() {
+    console.log("App running on port"+ PORT);
   });
